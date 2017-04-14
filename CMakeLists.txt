@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(manager_msgs)
+project(launcher_msgs)
 
 SET(CMAKE_CXX_FLAGS "-std=c++11")
 

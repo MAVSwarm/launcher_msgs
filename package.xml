@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
-  <name>manager_msgs</name>
-  <version>0.0.2</version>
+  <name>launcher_msgs</name>
+  <version>0.0.1</version>
   <description>The manager_msgs package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
